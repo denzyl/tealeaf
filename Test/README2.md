@@ -1,4 +1,0 @@
-tealeaf
-=======
-
-Tealeaf Academy
