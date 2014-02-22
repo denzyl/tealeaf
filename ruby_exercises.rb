@@ -39,7 +39,7 @@ puts "Exercise 8:"
 puts "In Ruby 1.8: "
 puts "{ 'a' => 100, 'b' => 200 }"
 puts "In Ruby 1.9 and above:"
-puts "{ a: 100, b: 200 }"
+puts '{ a: 100, b: 200 }'
 puts
 
 # 9.
